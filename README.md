@@ -1,6 +1,6 @@
 # Micro-CDA: Micro-Clustering Domain Adaptation
 
-This manuscript has been submitted to IEEE/CAA Journal of Automatica Sinica for the consideration of publication. 
+
 
 ## Code files (matlab implementation)
 

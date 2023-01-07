@@ -28,6 +28,7 @@ function [acc,acc_ite,W] = Micro_CDA(Xs,Ys,Xt,Yt,options)
 %%%                         it is fixed as 5 in all the experiments
 %%%
 %%%      mu                 The relative importance of marginal and conditional distributions
+%%%
 %% Output
 %%%
 %%%      acc                The classification accuracy (number,0~1)
