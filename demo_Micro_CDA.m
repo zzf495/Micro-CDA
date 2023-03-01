@@ -1,6 +1,4 @@
 %% Title:  Micro-CDA: Micro-Clustering Domain Adaptation
-%%% This manuscript has been submitted to IEEE/CAA Journal of Automatica
-%%% Sinica for the consideration of publication
 clc; clear all;
 addpath(genpath('./utils/'));
 path='./data/AWA2-DA/';
