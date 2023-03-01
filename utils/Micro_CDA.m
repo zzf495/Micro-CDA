@@ -1,7 +1,7 @@
 function [acc,acc_ite,W] = Micro_CDA(Xs,Ys,Xt,Yt,options)
 %% Title:  Micro-CDA: Micro-Clustering Domain Adaptation
-%%% This manuscript has been submitted to IEEE/CAA Journal of Automatica
-%%% Sinica for the consideration of publication
+%%% This manuscript has been submitted to IEEE SMC: Systems
+%%% for the consideration of publication
 %% Input
 %%%
 %%%     T                   The number of iterations
