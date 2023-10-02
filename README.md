@@ -1,6 +1,14 @@
 # Micro-CDA: Micro-Clustering Domain Adaptation
 
+## Example usage
 
+- Use ```addpath(genpath('./utils/'))``` to add the required auxiliary functions, after which you can use ``` Micro_CDA(Xs,Ys,Xt,Yt,options)```to call Micro-CDA wherever you need to.
+
+- You can launch the program by executing "demo_Micro_CDA.m" in the root directory (in windows), or use the following command to run it in Linux (The output will be stored in "fill.out"). The codes will be run directly without errors.
+
+```python
+nohup matlab <demo_Micro_CDA.m> fill.out &
+```
 
 ## Code files (matlab implementation)
 
