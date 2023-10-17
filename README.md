@@ -19,7 +19,21 @@ nohup matlab <demo_Micro_CDA.m> fill.out &
 └─utils: The folder that stores `IMcro-CL`, `Micro-CDA` and some auxiliary functions.  
       └─liblinear-2.30: A libsvm tool.  
 
+## High-resolution images in the manuscript
 
+Figures 3 and 4 can be found in folder `./images/`, where Fig. 3 denotes the flowchart of the proposed Micro-CDA, and Fig. 4 presents the differences between KMM and the proposed IMicro-CL.
+
+![Fig3](./images/Fig. 3.png)
+
+Fig. 3. The flowchart of the proposed Micro-CDA.
+
+
+
+
+
+![Fig4](./images/Fig. 4.png)
+
+Fig. 4. A toy example that illustrates the problems of KMM.
 
 ## AWA2-DA
 
