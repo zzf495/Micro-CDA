@@ -23,15 +23,13 @@ nohup matlab <demo_Micro_CDA.m> fill.out &
 
 Figures 3 and 4 can be found in folder `./images/`, where Fig. 3 denotes the flowchart of the proposed Micro-CDA, and Fig. 4 presents the differences between KMM and the proposed IMicro-CL.
 
-![Fig3](./images/Fig. 3.png)
+<img src="./images/Fig. 3.png" alt="Fig" style="zoom:60%;" />
 
 Fig. 3. The flowchart of the proposed Micro-CDA.
 
 
 
-
-
-![Fig4](./images/Fig. 4.png)
+<img src="./images/Fig. 4.png" alt="Fig" style="zoom:60%;" />
 
 Fig. 4. A toy example that illustrates the problems of KMM.
 
